@@ -1,0 +1,1 @@
+You can contribute in this repository by checking whether or not it has any issues/bugs related to it. It will be very helpful.
